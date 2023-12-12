@@ -1,0 +1,5 @@
+websockets
+SpeechRecognition
+faster_whisper
+fastapi[all]
+python-dotenv
